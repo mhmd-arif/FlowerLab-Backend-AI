@@ -1,2 +1,2 @@
-# FlowerLab-Backend-AI
-repository untuk backend AI aplikasi flowerlab
+# flowerlab-backend
+senior project - flowerlab backend 
